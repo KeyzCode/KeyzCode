@@ -1,29 +1,59 @@
 <h1>Hi, I'm Marquis! <br/> 
 
+<h2>About Me:</h2>
+
+<p>I am a cybersecurity professional specializing in system security, network security, risk assessment and ethical hacking. My deep interest in cybersecurity and cloud security motivates me to stay at the forefront of the field, constantly learning and applying the latest protective technologies. My background in client success and partner management enables me to grasp both client expectations and technical challenges effectively. This unique blend allows me to seamlessly translate complex security needs into actionable business solutions.</p>
+
+<p>Feel free to connect with me on LinkedIn:</p>
+
+<p>
+    <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" alt="LinkedIn" width="30" height="30">
+    </a>
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Security Information & Event Management</b>
   - [Azure Cloud Detection Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<h2>Skills:</h2>
 
 
-[linkedin]: https://www.linkedin.com/in/marquisbrown1/
+### Vulnerability Assessment
+<p>
+    Splunk | Microsoft Sentinel
+</p>
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Networking
+<p>
+    TCP/IP | Network Protocols | Firewall Configuration
+</p>
 
-Here are some ideas to get you started:
+### Operating Systems
+<p>
+    Linux | Windows | Unix
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages
+<p>
+    HTML | CSS | JavaScript
+</p>
+
+### Penetration Testing
+<p>
+    OSINT | Wireshark | Nmap | Metasploit
+</p>
+
+### Application Security
+<p>
+    OWASP
+</p>
+
+### Incident Response
+<p>
+    Log Analysis | Cyber Kill Chain | MITRE ATT&CK
+</p>
+
+
+
