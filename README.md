@@ -17,6 +17,10 @@
   - [Azure Cloud Detection Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
+## Technical Write-ups
+
+- [Understanding the Cyber Kill Chain](https://docs.google.com/document/d/1mrzzIoZFN9LmCj373ydbpAoQ88o-abzg_SAmSfGLV9g/edit?usp=sharing)
+
 <h2>Skills:</h2>
 
 
