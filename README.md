@@ -7,7 +7,7 @@
 <p>Feel free to connect with me on LinkedIn:</p>
 
 <p>
-    <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <a href="https://www.linkedin.com/in/marquisbrown1/" target="_blank">
         <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" alt="LinkedIn" width="30" height="30">
     </a>
 
