@@ -1,4 +1,4 @@
-<h1>Hi, I'm Marquis! <br/> 
+<h1>Hi, I'm Marquis! Cybersecurity Analyst <br/> 
 
 <h2>About Me:</h2>
 
@@ -13,8 +13,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Security Information & Event Management</b>
-  - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Azure / Cloud Projects:</b>
+  - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/KeyzCode/Azure-SOC)
 
 
 ## Technical Write-ups
