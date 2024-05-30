@@ -4,7 +4,7 @@
 
 <p>I am a cybersecurity professional specializing in system security, network security, risk assessment and ethical hacking. My deep interest in cybersecurity and cloud security motivates me to stay at the forefront of the field, constantly learning and applying the latest protective technologies. My background in client success and partner management enables me to grasp both client expectations and technical challenges effectively. This unique blend allows me to seamlessly translate complex security needs into actionable business solutions.</p>
 
-<p>Feel free to connect with me on LinkedIn:</p>
+<h4>Feel free to connect with me on LinkedIn:</h4>
 
 <p>
     <a href="https://www.linkedin.com/in/marquisbrown1/" target="_blank">
