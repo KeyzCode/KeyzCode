@@ -14,7 +14,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Security Information & Event Management</b>
-  - [Azure Cloud Detection Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 ## Technical Write-ups
